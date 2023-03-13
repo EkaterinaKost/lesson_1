@@ -8,4 +8,4 @@
 
 time = int(input('введите время в секундах :'))
 print('ч:м:с -', round((time / 3600), 2), ":",
-                       round((time / 60), 2), ':', int(time))
+      round((time / 60), 2), ':', int(time))
