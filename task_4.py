@@ -27,4 +27,3 @@ if cash_proceeds > costs:
           (cash_proceeds - costs) / staff)
 else:
     print('Финансовый результат - убыток')
-
