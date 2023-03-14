@@ -24,4 +24,3 @@ if sum_1 == sum_2:
     print('yes')
 else:
     print('no')
-
